@@ -10,7 +10,6 @@ I enjoy turning ideas into working models and solving real-world problems with A
 - 🔭 I’m currently working on ML, DL, and AI Agent projects  
 - 🌱 I’m learning advanced **LLMs, RAG, and MLOps**  
 - 💬 Ask me about **Python, ML, DL, PyTorch, TensorFlow, Spring Boot**  
-- 📫 Reach me at **your-email@example.com**  
 - ⚡ Fun fact: I love exploring futuristic technologies  
 
 ---
@@ -90,8 +89,8 @@ I enjoy turning ideas into working models and solving real-world problems with A
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** https://linkedin.com/in/your-profile  
-- **Email:** your-email@example.com  
+- **LinkedIn:** [https://www.linkedin.com/in/kuldeep-patel-b79b3020a/] 
+- **Email:** patelkuldeep1526@gmail.com 
 
 ---
 
